@@ -4,7 +4,7 @@
 
 Le but est simple : construire un empire minier galactique, gérer une économie exponentielle et utiliser le système de Prestige pour atteindre l'infini.
 
-### 🎮 [> JOUER À LA DÉMO ICI <](https://ton-pseudo.github.io/infinity-clicker/)
+### 🎮 [> JOUER À LA DÉMO ICI <](https://ewanroux.github.io/Diamond-Clicker/)
 
 *(Cliquez sur le lien ci-dessus pour lancer le jeu dans votre navigateur)*
 
