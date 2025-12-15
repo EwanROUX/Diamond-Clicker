@@ -37,15 +37,13 @@ Ce projet a été conçu sans aucun framework ni dépendance externe.
 
 Si vous souhaitez voir le code ou le modifier :
 
-1.  Clonez le dépôt :
-    ```bash
-    git clone [https://github.com/votre-pseudo/infinity-clicker.git](https://github.com/votre-pseudo/infinity-clicker.git)
-    ```
-2.  Ouvrez simplement le fichier `index.html` dans votre navigateur préféré.
+1.  Copiez mon code  :
+    
+2.  Collez le code dans votre VSCode puis ouvrez simplement le fichier `index.html` dans votre navigateur préféré.
 
 ## 📝 Auteur
 
-Projet réalisé par **[Ton Prénom]** dans le cadre d'un défi de développement Web.
+Projet réalisé par **[Ewan ROUX]** dans le cadre d'un défi de développement Web.
 
 ---
 *N'hésitez pas à laisser une ⭐ sur le repo si le jeu vous plaît !*
